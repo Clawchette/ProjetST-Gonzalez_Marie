@@ -1,0 +1,13 @@
+C:\Users\Clawc\Documents\B2-informatique\ArchitectureLogicielle\ProjetST-Gonzalez_Marie-B2A\ProjetST-Gonzalez_Marie-B2A\bin\Debug\netcoreapp3.1\ProjetST-Gonzalez_Marie-B2A.exe
+C:\Users\Clawc\Documents\B2-informatique\ArchitectureLogicielle\ProjetST-Gonzalez_Marie-B2A\ProjetST-Gonzalez_Marie-B2A\bin\Debug\netcoreapp3.1\ProjetST-Gonzalez_Marie-B2A.deps.json
+C:\Users\Clawc\Documents\B2-informatique\ArchitectureLogicielle\ProjetST-Gonzalez_Marie-B2A\ProjetST-Gonzalez_Marie-B2A\bin\Debug\netcoreapp3.1\ProjetST-Gonzalez_Marie-B2A.runtimeconfig.json
+C:\Users\Clawc\Documents\B2-informatique\ArchitectureLogicielle\ProjetST-Gonzalez_Marie-B2A\ProjetST-Gonzalez_Marie-B2A\bin\Debug\netcoreapp3.1\ProjetST-Gonzalez_Marie-B2A.runtimeconfig.dev.json
+C:\Users\Clawc\Documents\B2-informatique\ArchitectureLogicielle\ProjetST-Gonzalez_Marie-B2A\ProjetST-Gonzalez_Marie-B2A\bin\Debug\netcoreapp3.1\ProjetST-Gonzalez_Marie-B2A.dll
+C:\Users\Clawc\Documents\B2-informatique\ArchitectureLogicielle\ProjetST-Gonzalez_Marie-B2A\ProjetST-Gonzalez_Marie-B2A\bin\Debug\netcoreapp3.1\ProjetST-Gonzalez_Marie-B2A.pdb
+C:\Users\Clawc\Documents\B2-informatique\ArchitectureLogicielle\ProjetST-Gonzalez_Marie-B2A\ProjetST-Gonzalez_Marie-B2A\obj\Debug\netcoreapp3.1\ProjetST-Gonzalez_Marie-B2A.csprojAssemblyReference.cache
+C:\Users\Clawc\Documents\B2-informatique\ArchitectureLogicielle\ProjetST-Gonzalez_Marie-B2A\ProjetST-Gonzalez_Marie-B2A\obj\Debug\netcoreapp3.1\ProjetST-Gonzalez_Marie-B2A.csproj.CoreCompileInputs.cache
+C:\Users\Clawc\Documents\B2-informatique\ArchitectureLogicielle\ProjetST-Gonzalez_Marie-B2A\ProjetST-Gonzalez_Marie-B2A\obj\Debug\netcoreapp3.1\ProjetST-Gonzalez_Marie-B2A.AssemblyInfoInputs.cache
+C:\Users\Clawc\Documents\B2-informatique\ArchitectureLogicielle\ProjetST-Gonzalez_Marie-B2A\ProjetST-Gonzalez_Marie-B2A\obj\Debug\netcoreapp3.1\ProjetST-Gonzalez_Marie-B2A.AssemblyInfo.cs
+C:\Users\Clawc\Documents\B2-informatique\ArchitectureLogicielle\ProjetST-Gonzalez_Marie-B2A\ProjetST-Gonzalez_Marie-B2A\obj\Debug\netcoreapp3.1\ProjetST-Gonzalez_Marie-B2A.dll
+C:\Users\Clawc\Documents\B2-informatique\ArchitectureLogicielle\ProjetST-Gonzalez_Marie-B2A\ProjetST-Gonzalez_Marie-B2A\obj\Debug\netcoreapp3.1\ProjetST-Gonzalez_Marie-B2A.pdb
+C:\Users\Clawc\Documents\B2-informatique\ArchitectureLogicielle\ProjetST-Gonzalez_Marie-B2A\ProjetST-Gonzalez_Marie-B2A\obj\Debug\netcoreapp3.1\ProjetST-Gonzalez_Marie-B2A.genruntimeconfig.cache
