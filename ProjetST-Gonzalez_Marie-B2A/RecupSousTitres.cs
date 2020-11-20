@@ -24,12 +24,12 @@ namespace ProjetST_Gonzalez_Marie_B2A
 
         }
 
-        public List<SousTitre> RecuperationSousTitres()
+        public List<Srt> RecuperationSousTitres()
         {
 
             FilePath = RecuperationFichier();
 
-            List<SousTitre> soustitres = new List<SousTitre>();
+            List<Srt> soustitres = new List<Srt>();
             int NbLine = 1;
 
             using (StreamReader sr = new StreamReader(FilePath))
@@ -50,7 +50,7 @@ namespace ProjetST_Gonzalez_Marie_B2A
                     {
 
                         s.LineText = LineText;          //Ajoute LineText à la liste...  
-                        soustitres.Add(new SousTitre(StartTime, EndTime, LineText));              //Ajoute le sous-titre à la liste
+                        soustitres.Add(new Srt(StartTime, EndTime, LineText));              //Ajoute le sous-titre à la liste
                         LineText = "";                  //...puis le vide de son contenu 
                         
                     }
@@ -80,7 +80,7 @@ namespace ProjetST_Gonzalez_Marie_B2A
                 }
 
                 s.LineText = LineText;                  //Ajoute le dernier LineText à la liste  
-                soustitres.Add(new SousTitre(StartTime, EndTime, LineText));              //Ajoute le dernier sous-titre à la liste
+                soustitres.Add(new Srt(StartTime, EndTime, LineText));              //Ajoute le dernier sous-titre à la liste
 
                 return soustitres;
 
@@ -101,7 +101,7 @@ namespace ProjetST_Gonzalez_Marie_B2A
             string[] t = moment.Split(":"); //Sépare les heures, les minutes et les secondes+millisecondes
             string[] s = t[2].Split(",");   //Sépare les secondes et les millisecondes
 
-            heures = int.Parse(t[0]);       //Transforment les string en int pour le calcul
+            heures = int.Parse(t[0]);       //Transforment les string en int pour le calcul;
             minutes = int.Parse(t[1]);
             secondes = int.Parse(s[0]);
             millisecondes = int.Parse(s[1]);

@@ -10,13 +10,13 @@ namespace ProjetST_Gonzalez_Marie_B2A
     class Lecture
     {
         RecupSousTitres st = new RecupSousTitres();     //Récupère la class des sous-titres
-        List<SousTitre> ListST = new List<SousTitre>(); //Créé une liste d'éléments de class RecupSousTitres
+        List<Srt> ListST = new List<Srt>(); //Créé une liste d'éléments de class RecupSousTitres
         
         public async Task LectureSousTitres()
         {
             ListST = st.RecuperationSousTitres();   //Récupère la liste des sous-titres du fichier qui sera entré par l'utilisateur
            
-            foreach (SousTitre st in ListST)        //Pour chaque sous-titre...
+            foreach (Srt st in ListST)        //Pour chaque sous-titre...
             {
                 await Task.Delay(st.StartSub);      //...attend son temps de début...
                 Console.WriteLine(st.SubText);      //...puis l'affiche...

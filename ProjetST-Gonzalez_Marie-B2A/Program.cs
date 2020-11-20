@@ -12,8 +12,8 @@ namespace ProjetST_Gonzalez_Marie_B2A
         static async Task Main(string[] args)
         {
 
-            Lecture st = new Lecture();
-            await st.LectureSousTitres();
+            Lecture logiciel = new Lecture();
+            await logiciel.LectureSousTitres();
 
         }
     }
